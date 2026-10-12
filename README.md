@@ -30,7 +30,8 @@ This project addresses 18 critical questions, including:
 - **Investment Personalities**: Sharks display distinct behaviors; some are high-volume investors (like Peyush and Aman), while others are more balanced or cautious.
 - **Valuation Correlation**: There is a very weak linear relationship between what pitchers ask for and the final deal valuation.
 - **Ask vs. Success**: Pitchers asking for smaller amounts (below ₹1 crore) have a significantly higher chance of securing a deal.
-\n## 🚀 How to Run
+
+## 🚀 How to Run
 1. Ensure you have the required libraries installed:
    ```bash
    pip install pandas matplotlib seaborn
